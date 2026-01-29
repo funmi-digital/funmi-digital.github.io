@@ -10,6 +10,6 @@ My initial experience with computers began when my Dad bought our first family d
 
 As an Arts for All fellow, my current project examines the visual rhetorical power in 3D representations of cultural artefacts in Nigeria in partnership with the National Museum in Lagos. This project has required me to hone my photography and photogrammetry skills while using software applications such as Adobe Lightroom, KiriEngine, and RealityCapture. Through this project, I also aim to create a VR and AR experience for Black diasporic audiences to reconnect with their African roots.
 
--Project 1
--Project 2
--Project 3
+1. Project 1
+2. Project 2
+3. Project 3
